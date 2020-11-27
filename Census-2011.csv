@@ -1,0 +1,641 @@
+DISTRICT,SUB-DISTRICTS,STATE,AREA-KM2,POPULATION,LITERACY-PCT
+Adilabad,Mandals,Andhra Pradesh,16105,2741239,61.01
+Agra,Tehsils,Uttar Pradesh,4041,4418797,71.58
+Ahmadabad,Talukas,Gujarat,8107,7214225,85.31
+Ahmadnagar,Talukas,Maharashtra,17048,4543159,79.05
+Aizawl,Blocks,Mizoram,3576,400309,97.89
+Ajmer,Tehsils,Rajasthan,8481,2583052,69.33
+Akola,Talukas,Maharashtra,5676,1813906,88.05
+Alappuzha,Talukas,Kerala,1415,2127789,95.72
+Aligarh,Tehsils,Uttar Pradesh,3650,3673889,67.52
+Alirajpur,Tehsils,Madhya Pradesh,3182,728999,36.1
+Allahabad,Tehsils,Uttar Pradesh,5482,5954391,72.32
+Almora,Tehsils,Uttarakhand,3144,622506,80.47
+Alwar,Tehsils,Rajasthan,8380,3674179,70.72
+Ambala,Tehsils,Hariyana,1574,1128350,81.75
+Ambedkar Nagar,Tehsils,Uttar Pradesh,2350,2397888,72.23
+Amravati,Talukas,Maharashtra,12210,2888445,87.38
+Amreli,Talukas,Gujarat,7397,1514190,74.25
+Amritsar,Tehsils,Punjab,2683,2490656,76.27
+Anand,Talukas,Gujarat,3204,2092745,84.37
+Anantapur,Mandals,Andhra Pradesh,19130,4081148,63.57
+Anantnag,Tehsils,Jammu and Kashmir,3574,1078692,62.69
+Anjaw,Circles,Arunachal Pradesh,6190,21167,56.46
+Anugul,Blocks,Odisha,6375,1273821,77.53
+Anuppur,Tehsils,Madhya Pradesh,3747,749237,67.88
+Araria,Blocks,Bihar,2830,2811569,53.53
+Ariyalur,Talukas,Tamil Nadu,1940,754894,71.34
+Arwal,Blocks,Bihar,638,700843,67.43
+Ashoknagar,Tehsils,Madhya Pradesh,4674,845071,66.42
+Auraiya,Tehsils,Uttar Pradesh,2016,1379545,78.95
+Aurangabad,Blocks,Bihar,3305,2540073,70.32
+Aurangabad,Talukas,Maharashtra,10107,3701282,79.02
+Azamgarh,Tehsils,Uttar Pradesh,4054,4613913,70.93
+Badgam,Tehsils,Jammu and Kashmir,1361,753745,56.08
+Bagalkot,Talukas,Karnataka,6552,1889752,68.82
+Bageshwar,Tehsils,Uttarakhand,2241,259898,80.01
+Baghpat,Tehsils,Uttar Pradesh,1321,1303048,72.01
+Bahraich,Tehsils,Uttar Pradesh,5237,3487731,49.36
+Baksa,Circles,Assam,2457,950075,69.25
+Balaghat,Tehsils,Madhya Pradesh,9229,1701698,77.09
+Balangir,Blocks,Odisha,6575,1648997,64.72
+Baleshwar,Blocks,Odisha,3806,2320529,79.79
+Ballia,Tehsils,Uttar Pradesh,2981,3239774,70.94
+Balrampur,Tehsils,Uttar Pradesh,3349,2148665,49.51
+Banaskantha,Talukas,Gujarat,10743,3120506,65.32
+Banda,Tehsils,Uttar Pradesh,4408,1799410,66.67
+Bandipora,Tehsils,Jammu and Kashmir,345,392232,56.28
+Bangalore,Talukas,Karnataka,2196,9621551,87.67
+Bangalore Rural,Talukas,Karnataka,2298,990923,77.93
+Banka,Blocks,Bihar,3020,2034763,58.17
+Bankura,Blocks,West Bengal,6882,3596674,70.26
+Banswara,Tehsils,Rajasthan,4522,1797485,56.33
+Barabanki,Tehsils,Uttar Pradesh,4402,3260699,61.75
+Baramula,Tehsils,Jammu and Kashmir,4243,1008039,64.63
+Baran,Tehsils,Rajasthan,6992,1222755,66.66
+Barddhaman,Blocks,West Bengal,7024,7717563,76.21
+Bareilly,Tehsils,Uttar Pradesh,4120,4448359,58.49
+Bargarh,Blocks,Odisha,5837,1481255,74.62
+Barmer,Tehsils,Rajasthan,28387,2603751,56.53
+Barnala,Tehsils,Punjab,1482,595527,67.82
+Barpeta,Circles,Assam,2282,1693622,63.81
+Barwani,Tehsils,Madhya Pradesh,5427,1385881,49.08
+Bastar,Tehsils,Chhattisgarh,10470,1413199,54.4
+Basti,Tehsils,Uttar Pradesh,2688,2464464,67.22
+Bathinda,Tehsils,Punjab,3353,1388525,68.28
+Baudh,Blocks,Odisha,3098,441162,71.61
+Begusarai,Blocks,Bihar,1918,2970541,63.87
+Belgaum,Talukas,Karnataka,13433,4779661,73.48
+Bellary,Talukas,Karnataka,8461,2452595,67.43
+Betul,Tehsils,Madhya Pradesh,10043,1575362,68.9
+Bhadrak,Blocks,Odisha,2505,1506337,82.78
+Bhagalpur,Blocks,Bihar,2569,3037766,63.14
+Bhandara,Talukas,Maharashtra,4087,1200334,83.76
+Bharatpur,Tehsils,Rajasthan,5066,2548462,70.11
+Bharuch,Talukas,Gujarat,6509,1551019,81.51
+Bhavnagar,Talukas,Gujarat,10034,2880365,75.52
+Bhilwara,Tehsils,Rajasthan,10455,2408523,61.37
+Bhind,Tehsils,Madhya Pradesh,4459,1703005,75.26
+Bhiwani,Tehsils,Hariyana,4778,1634445,75.21
+Bhojpur,Blocks,Bihar,2395,2728407,70.47
+Bhopal,Tehsils,Madhya Pradesh,2772,2371061,80.37
+Bid,Talukas,Maharashtra,10693,2585049,76.99
+Bidar,Talukas,Karnataka,5448,1703300,70.51
+Bijapur,Tehsils,Chhattisgarh,8530,255230,40.86
+Bijapur,Talukas,Karnataka,10498,2177331,67.15
+Bijnor,Tehsils,Uttar Pradesh,4561,3682713,68.48
+Bikaner,Tehsils,Rajasthan,30239,2363937,65.13
+Bilaspur,Tehsils,Himachal Pradesh,1167,381956,84.59
+Bilaspur,Tehsils,Chhattisgarh,8272,2663629,70.78
+Birbhum,Blocks,West Bengal,4545,3502404,70.68
+Bishnupur,Sub-Divisions,Manipur,496,237399,75.85
+Bokaro,Blocks,Jharkhand,2883,2062330,72.01
+Bongaigaon,Circles,Assam,1093,738804,69.74
+Budaun,Tehsils,Uttar Pradesh,5168,3681896,51.29
+Bulandshahar,Tehsils,Uttar Pradesh,4512,3499171,68.88
+Buldana,Talukas,Maharashtra,9661,2586258,83.4
+Bundi,Tehsils,Rajasthan,5776,1110906,61.52
+Burhanpur,Tehsils,Madhya Pradesh,3427,757847,64.36
+Buxar,Blocks,Bihar,1703,1706352,70.14
+Cachar,Circles,Assam,3786,1736617,79.34
+Central,Tehsils,Delhi,21,582320,85.14
+Chamarajanagar,Talukas,Karnataka,5648,1020791,61.43
+Chamba,Tehsils,Himachal Pradesh,6522,519080,72.17
+Chamoli,Tehsils,Uttarakhand,8030,391605,82.65
+Champawat,Tehsils,Uttarakhand,1766,259648,79.83
+Champhai,Blocks,Mizoram,3185,125745,95.91
+Chandauli,Tehsils,Uttar Pradesh,2541,1952756,71.48
+Chandel,Sub-Divisions,Manipur,3313,144182,71.11
+Chandigarh,Tehsils,Chandigarh,114,1055450,86.05
+Chandrapur,Talukas,Maharashtra,11443,2204307,80.01
+Changlang,Circles,Arunachal Pradesh,4662,148226,59.8
+Chatra,Blocks,Jharkhand,3718,1042886,60.18
+Chennai,Talukas,Tamil Nadu,175,4646732,90.18
+Chhatarpur,Tehsils,Madhya Pradesh,8687,1762375,63.74
+Chhindwara,Tehsils,Madhya Pradesh,11815,2090922,71.16
+Chikkaballapura,Talukas,Karnataka,4244,1255104,69.76
+Chikmagalur,Talukas,Karnataka,7202,1137961,79.25
+Chirang,Circles,Assam,1923,482162,63.55
+Chitradurga,Talukas,Karnataka,8436,1659456,73.71
+Chitrakoot,Tehsils,Uttar Pradesh,3216,991730,65.05
+Chittaurgarh,Tehsils,Rajasthan,7822,1544338,61.71
+Chittoor,Mandals,Andhra Pradesh,15152,4174064,71.53
+Churachandpur,Sub-Divisions,Manipur,4570,274143,82.78
+Churu,Tehsils,Rajasthan,13835,2039547,66.75
+Coimbatore,Talukas,Tamil Nadu,4732,3458045,83.98
+Cuddalore,Talukas,Tamil Nadu,3703,2605914,78.04
+Cuttack,Blocks,Odisha,3932,2624470,85.5
+Dadra & Nagar Haveli,Talukas,Dadra and Nagar Haveli,491,343709,76.24
+Dahod,Talukas,Gujarat,3642,2127086,58.82
+Dakshin Bastar Dantewada,Tehsils,Chhattisgarh,8298,533638,42.12
+Dakshin Dinajpur,Blocks,West Bengal,2219,1676276,72.82
+Dakshina Kannada,Talukas,Karnataka,4861,2089649,88.57
+Daman,Talukas,Daman and Diu,72,191173,88.07
+Damoh,Tehsils,Madhya Pradesh,7306,1264219,69.73
+Darbhanga,Blocks,Bihar,2279,3937385,56.56
+Darjiling,Blocks,West Bengal,3149,1846823,79.56
+Darrang,Circles,Assam,1585,928500,63.08
+Datia,Tehsils,Madhya Pradesh,2902,786754,72.63
+Dausa,Tehsils,Rajasthan,3432,1634409,68.16
+Davanagere,Talukas,Karnataka,5924,1945497,75.74
+Debagarh,Blocks,Odisha,2940,312520,72.57
+Dehradun,Tehsils,Uttarakhand,3088,1696694,84.25
+Deoghar,Blocks,Jharkhand,2477,1492073,64.85
+Deoria,Tehsils,Uttar Pradesh,2540,3100946,71.13
+Dewas,Tehsils,Madhya Pradesh,7020,1563715,69.35
+Dhalai,Blocks,Tripura,2400,378230,85.72
+Dhamtari,Tehsils,Chhattisgarh,4084,799781,78.36
+Dhanbad,Blocks,Jharkhand,2040,2684487,74.52
+Dhar,Tehsils,Madhya Pradesh,8153,2185793,59
+Dharmapuri,Talukas,Tamil Nadu,4497,1506843,68.54
+Dharwad,Talukas,Karnataka,4260,1847023,80
+Dhaulpur,Tehsils,Rajasthan,3033,1206516,69.08
+Dhemaji,Circles,Assam,3237,686133,72.7
+Dhenkanal,Blocks,Odisha,4452,1192811,78.76
+Dhubri,Circles,Assam,2176,1949258,58.34
+Dhule,Talukas,Maharashtra,7195,2050862,72.8
+Dibang Valley,Circles,Arunachal Pradesh,9129,8004,64.1
+Dibrugarh,Circles,Assam,3381,1326335,76.05
+Dima Hasao,Circles,Assam,4888,214102,77.54
+Dimapur,Circles,Nagaland,927,378811,84.79
+Dindigul,Talukas,Tamil Nadu,6036,2159775,76.26
+Dindori,Tehsils,Madhya Pradesh,7470,704524,63.9
+Diu,Talukas,Daman and Diu,39,52074,83.46
+Doda,Tehsils,Jammu and Kashmir,8912,409936,64.68
+Dumka,Blocks,Jharkhand,3761,1321442,61.02
+Dungarpur,Tehsils,Rajasthan,3770,1388552,59.46
+Durg,Tehsils,Chhattisgarh,8535,3343872,79.06
+East,Tehsils,Delhi,63,1709346,89.31
+East District,Sub-Divisions,Sikkim,954,283583,83.85
+East Garo Hills,Blocks,Meghalaya,2603,317917,73.95
+East Godavari,Mandals,Andhra Pradesh,10807,5154296,70.99
+East Kameng,Circles,Arunachal Pradesh,4134,78690,60.02
+East Khasi Hills,Blocks,Meghalaya,2748,825922,84.15
+East Siang,Circles,Arunachal Pradesh,3603,99214,72.54
+Ernakulam,Talukas,Kerala,3063,3282388,95.89
+Erode,Talukas,Tamil Nadu,5760,2251744,72.58
+Etah,Tehsils,Uttar Pradesh,2431,1774480,70.81
+Etawah,Tehsils,Uttar Pradesh,2311,1581810,78.41
+Faizabad,Tehsils,Uttar Pradesh,2341,2470996,68.73
+Faridabad,Tehsils,Hariyana,741,1809733,81.7
+Faridkot,Tehsils,Punjab,1458,617508,69.55
+Farrukhabad,Tehsils,Uttar Pradesh,2181,1885204,69.04
+Fatehabad,Tehsils,Hariyana,2538,942011,67.92
+Fatehgarh Sahib,Tehsils,Punjab,1180,600163,79.35
+Fatehpur,Tehsils,Uttar Pradesh,4152,2632733,67.43
+Firozabad,Tehsils,Uttar Pradesh,2407,2498156,71.92
+Firozpur,Tehsils,Punjab,5305,2029074,68.92
+Gadag,Talukas,Karnataka,4657,1064570,75.12
+Gadchiroli,Talukas,Maharashtra,14412,1072942,74.36
+Gajapati,Blocks,Odisha,4325,577817,53.49
+Ganderbal,Tehsils,Jammu and Kashmir,259,297446,58.04
+Gandhinagar,Talukas,Gujarat,2140,1391753,84.16
+Ganganagar,Tehsils,Rajasthan,10978,1969168,69.64
+Ganjam,Blocks,Odisha,8206,3529031,71.09
+Garhwa,Blocks,Jharkhand,4093,1322784,60.33
+Garhwal,Tehsils,Uttarakhand,5329,687271,82.02
+Gautam Buddha Nagar,Tehsils,Uttar Pradesh,1282,1648115,80.12
+Gaya,Blocks,Bihar,4976,4391418,63.67
+Ghaziabad,Tehsils,Uttar Pradesh,1179,4681645,78.07
+Ghazipur,Tehsils,Uttar Pradesh,3377,3620268,71.78
+Giridih,Blocks,Jharkhand,4962,2445474,63.14
+Goalpara,Circles,Assam,1824,1008183,67.37
+Godda,Blocks,Jharkhand,2266,1313551,56.4
+Golaghat,Circles,Assam,3502,1066888,77.43
+Gonda,Tehsils,Uttar Pradesh,4003,3433919,58.71
+Gondiya,Talukas,Maharashtra,5234,1322507,84.95
+Gopalganj,Blocks,Bihar,2033,2562012,65.47
+Gorakhpur,Tehsils,Uttar Pradesh,3321,4440895,70.83
+Gulbarga,Talukas,Karnataka,10954,2566326,64.85
+Gumla,Blocks,Jharkhand,5360,1025213,65.73
+Guna,Tehsils,Madhya Pradesh,6390,1241519,63.23
+Guntur,Mandals,Andhra Pradesh,11391,4887813,67.4
+Gurdaspur,Tehsils,Punjab,3551,2298323,79.95
+Gurgaon,Tehsils,Hariyana,1258,1514432,84.7
+Gwalior,Tehsils,Madhya Pradesh,4560,2032036,76.65
+Hailakandi,Circles,Assam,1327,659296,74.33
+Hamirpur,Tehsils,Himachal Pradesh,1118,454768,88.15
+Hamirpur,Tehsils,Uttar Pradesh,4021,1104285,68.77
+Hanumangarh,Tehsils,Rajasthan,9656,1774692,67.13
+Haora,Blocks,West Bengal,1467,4850029,83.31
+Harda,Tehsils,Madhya Pradesh,3334,570465,72.5
+Hardoi,Tehsils,Uttar Pradesh,5986,4092845,64.57
+Hardwar,Tehsils,Uttarakhand,2360,1890422,73.43
+Hassan,Talukas,Karnataka,6814,1776421,76.07
+Haveri,Talukas,Karnataka,4823,1597668,77.4
+Hazaribagh,Blocks,Jharkhand,3555,1734495,69.75
+Hingoli,Talukas,Maharashtra,4827,1177345,78.17
+Hisar,Tehsils,Hariyana,3983,1743931,72.89
+Hoshangabad,Tehsils,Madhya Pradesh,6703,1241350,75.29
+Hoshiarpur,Tehsils,Punjab,3386,1586625,84.59
+Hugli,Blocks,West Bengal,3149,5519145,81.8
+Hyderabad,Mandals,Andhra Pradesh,217,3943323,83.25
+Idukki,Talukas,Kerala,4356,1108974,91.99
+Imphal East,Sub-Divisions,Manipur,709,456113,81.95
+Imphal West,Sub-Divisions,Manipur,519,517992,86.08
+Indore,Tehsils,Madhya Pradesh,3898,3276697,80.87
+Jabalpur,Tehsils,Madhya Pradesh,5211,2463289,81.07
+Jagatsinghapur,Blocks,Odisha,1668,1136971,86.59
+Jaintia Hills,Blocks,Meghalaya,3819,395124,61.64
+Jaipur,Tehsils,Rajasthan,11143,6626178,75.51
+Jaisalmer,Tehsils,Rajasthan,38401,669919,57.22
+Jajapur,Blocks,Odisha,2899,1827192,80.13
+Jalandhar,Tehsils,Punjab,2624,2193590,82.48
+Jalaun,Tehsils,Uttar Pradesh,4565,1689974,73.75
+Jalgaon,Talukas,Maharashtra,11765,4229917,78.2
+Jalna,Talukas,Maharashtra,7718,1959046,71.52
+Jalor,Tehsils,Rajasthan,10640,1828730,54.86
+Jalpaiguri,Blocks,West Bengal,6227,3872846,73.25
+Jammu,Tehsils,Jammu and Kashmir,2342,1529958,83.45
+Jamnagar,Talukas,Gujarat,14184,2160119,73.65
+Jamtara,Blocks,Jharkhand,1811,791042,64.59
+Jamui,Blocks,Bihar,3098,1760405,59.79
+Janjgir - Champa,Tehsils,Chhattisgarh,3853,1619707,73.07
+Jashpur,Tehsils,Chhattisgarh,5838,851669,67.92
+Jaunpur,Tehsils,Uttar Pradesh,4038,4494204,71.55
+Jehanabad,Blocks,Bihar,931,1125313,66.8
+Jhabua,Tehsils,Madhya Pradesh,3600,1025048,43.3
+Jhajjar,Tehsils,Hariyana,1834,958405,80.65
+Jhalawar,Tehsils,Rajasthan,6219,1411129,61.5
+Jhansi,Tehsils,Uttar Pradesh,5024,1998603,75.05
+Jharsuguda,Blocks,Odisha,2114,579505,78.86
+Jhunjhunun,Tehsils,Rajasthan,5928,2137045,74.13
+Jind,Tehsils,Hariyana,2702,1334152,71.44
+Jodhpur,Tehsils,Rajasthan,22850,3687165,65.94
+Jorhat,Circles,Assam,2851,1092256,82.15
+Junagadh,Talukas,Gujarat,8831,2743082,75.8
+Jyotiba Phule Nagar,Tehsils,Uttar Pradesh,2249,1840221,63.84
+Kabirdham,Tehsils,Chhattisgarh,4235,822526,60.85
+Kachchh,Talukas,Gujarat,45674,2092371,70.59
+Kaimur,Blocks,Bihar,3332,1626384,69.34
+Kaithal,Tehsils,Hariyana,2317,1074304,69.15
+Kalahandi,Blocks,Odisha,7920,1576869,59.22
+Kamrup,Circles,Assam,3105,1517542,75.55
+Kamrup Metropolitan,Circles,Assam,955,1253938,88.71
+Kancheepuram,Talukas,Tamil Nadu,4483,3998252,84.49
+Kandhamal,Blocks,Odisha,8021,733110,64.13
+Kangra,Tehsils,Himachal Pradesh,5739,1510075,85.67
+Kanker (Uttar Bastar Kanker),Tehsils,Chhattisgarh,7161,748941,70.29
+Kannauj,Tehsils,Uttar Pradesh,2093,1656616,72.7
+Kanniyakumari,Talukas,Tamil Nadu,1684,1870374,91.75
+Kannur,Talukas,Kerala,2961,2523003,95.1
+Kanpur Dehat,Tehsils,Uttar Pradesh,3021,1796184,75.78
+Kanpur Nagar,Tehsils,Uttar Pradesh,3155,4581268,79.65
+Kanshiram Nagar,Tehsils,Uttar Pradesh,1955,1436719,61.02
+Kapurthala,Tehsils,Punjab,1633,815168,79.07
+Karaikal,Commune Panchayats,Puducherry,157,200222,87.05
+Karauli,Tehsils,Rajasthan,5524,1458248,66.22
+Karbi Anglong,Circles,Assam,10434,956313,69.25
+Kargil,Tehsils,Jammu and Kashmir,14036,140802,71.34
+Karimganj,Circles,Assam,1809,1228686,78.22
+Karimnagar,Mandals,Andhra Pradesh,11823,3776269,64.15
+Karnal,Tehsils,Hariyana,2520,1505324,74.73
+Karur,Talukas,Tamil Nadu,2904,1064493,75.6
+Kasaragod,Talukas,Kerala,1989,1307375,90.09
+Kathua,Tehsils,Jammu and Kashmir,2502,616435,73.09
+Katihar,Blocks,Bihar,3057,3071029,52.24
+Katni,Tehsils,Madhya Pradesh,4950,1292042,71.98
+Kaushambi,Tehsils,Uttar Pradesh,1779,1599596,61.28
+Kendrapara,Blocks,Odisha,2644,1440361,85.15
+Kendujhar,Blocks,Odisha,8303,1801733,68.24
+Khagaria,Blocks,Bihar,1486,1666886,57.92
+Khammam,Mandals,Andhra Pradesh,16029,2797370,64.81
+Khandwa,Tehsils,Madhya Pradesh,7352,1310061,66.39
+Khargone,Tehsils,Madhya Pradesh,8025,1873046,62.7
+Kheda,Talukas,Gujarat,3953,2299885,82.65
+Kheri,Tehsils,Uttar Pradesh,7680,4021243,60.56
+Khordha,Blocks,Odisha,2813,2251673,86.88
+Khunti,Blocks,Jharkhand,2535,531885,63.86
+Kinnaur,Tehsils,Himachal Pradesh,6401,84121,80
+Kiphire,Circles,Nagaland,1130,74004,69.54
+Kishanganj,Blocks,Bihar,1884,1690400,55.46
+Kishtwar,Tehsils,Jammu and Kashmir,1644,230696,56.2
+Koch Bihar,Blocks,West Bengal,3387,2819086,74.78
+Kodagu,Talukas,Karnataka,4102,554519,82.61
+Kodarma,Blocks,Jharkhand,2540,716259,66.84
+Kohima,Circles,Nagaland,1463,267988,85.23
+Kokrajhar,Circles,Assam,3296,887142,65.22
+Kolar,Talukas,Karnataka,3979,1536401,74.39
+Kolasib,Blocks,Mizoram,1382,83955,93.5
+Kolhapur,Talukas,Maharashtra,7685,3876001,81.51
+Kolkata,Blocks,West Bengal,185,4496694,86.31
+Kollam,Talukas,Kerala,2483,2635375,94.09
+Koppal,Talukas,Karnataka,5570,1389920,68.09
+Koraput,Blocks,Odisha,8807,1379647,49.21
+Korba,Tehsils,Chhattisgarh,6598,1206640,72.37
+Koriya,Tehsils,Chhattisgarh,6604,658917,70.64
+Kota,Tehsils,Rajasthan,5217,1951014,76.56
+Kottayam,Talukas,Kerala,2206,1974551,97.21
+Kozhikode,Talukas,Kerala,2345,3086293,95.08
+Krishna,Mandals,Andhra Pradesh,8727,4517398,73.74
+Krishnagiri,Talukas,Tamil Nadu,5129,1879809,71.46
+Kulgam,Tehsils,Jammu and Kashmir,410,424483,59.23
+Kullu,Tehsils,Himachal Pradesh,5503,437903,79.4
+Kupwara,Tehsils,Jammu and Kashmir,2379,870354,64.51
+Kurnool,Mandals,Andhra Pradesh,17658,4053463,59.97
+Kurukshetra,Tehsils,Hariyana,1530,964655,76.31
+Kurung Kumey,Circles,Arunachal Pradesh,6040,92076,48.75
+Kushinagar,Tehsils,Uttar Pradesh,2905,3564544,65.25
+Lahul & Spiti,Tehsils,Himachal Pradesh,13841,31564,76.81
+Lakhimpur,Circles,Assam,2277,1042137,77.2
+Lakhisarai,Blocks,Bihar,1228,1000912,62.42
+Lakshadweep,Sub-Divisions,Lakshadweep,30,64473,91.85
+Lalitpur,Tehsils,Uttar Pradesh,5039,1221592,63.52
+Latehar,Blocks,Jharkhand,4291,726978,59.51
+Latur,Talukas,Maharashtra,7157,2454196,77.26
+Lawngtlai,Blocks,Mizoram,2557,117894,65.88
+Leh,Tehsils,Jammu and Kashmir,45110,133487,77.2
+Lohardaga,Blocks,Jharkhand,1502,461790,67.61
+Lohit,Circles,Arunachal Pradesh,5212,145726,68.18
+Longleng,Circles,Nagaland,562,50484,72.17
+Lower Dibang Valley,Circles,Arunachal Pradesh,3900,54080,69.13
+Lower Subansiri,Circles,Arunachal Pradesh,3508,83030,74.35
+Lucknow,Tehsils,Uttar Pradesh,2528,4589838,77.29
+Ludhiana,Tehsils,Punjab,3578,3498739,82.2
+Lunglei,Blocks,Mizoram,4536,161428,88.86
+Madhepura,Blocks,Bihar,1788,2001762,52.25
+Madhubani,Blocks,Bihar,3501,4487379,58.62
+Madurai,Talukas,Tamil Nadu,3710,3038252,83.45
+Mahamaya Nagar,Tehsils,Uttar Pradesh,1840,1564708,71.59
+Maharajganj,Tehsils,Uttar Pradesh,2952,2684703,62.76
+Mahasamund,Tehsils,Chhattisgarh,4790,1032754,71.02
+Mahbubnagar,Mandals,Andhra Pradesh,18432,4053028,55.04
+Mahe,Commune Panchayats,Puducherry,9,41816,97.87
+Mahendragarh,Tehsils,Hariyana,1899,922088,77.72
+Mahesana,Talukas,Gujarat,4401,2035064,83.61
+Mahoba,Tehsils,Uttar Pradesh,3144,875958,65.27
+Mainpuri,Tehsils,Uttar Pradesh,2760,1868529,75.99
+Malappuram,Talukas,Kerala,3554,4112920,93.57
+Maldah,Blocks,West Bengal,3733,3988845,61.73
+Malkangiri,Blocks,Odisha,5791,613192,48.54
+Mamit,Blocks,Mizoram,3025,86364,84.93
+Mandi,Tehsils,Himachal Pradesh,3950,999777,81.53
+Mandla,Tehsils,Madhya Pradesh,5800,1054905,66.87
+Mandsaur,Tehsils,Madhya Pradesh,5535,1340411,71.78
+Mandya,Talukas,Karnataka,4962,1805769,70.4
+Mansa,Tehsils,Punjab,2198,769751,61.83
+Mathura,Tehsils,Uttar Pradesh,3340,2547184,70.36
+Mau,Tehsils,Uttar Pradesh,1713,2205968,73.09
+Mayurbhanj,Blocks,Odisha,10418,2519738,63.17
+Medak,Mandals,Andhra Pradesh,9699,3033288,61.42
+Meerut,Tehsils,Uttar Pradesh,2559,3443689,72.84
+Mewat,Tehsils,Hariyana,1507,1089263,54.08
+Mirzapur,Tehsils,Uttar Pradesh,4405,2496970,68.48
+Moga,Tehsils,Punjab,2242,995746,70.68
+Mokokchung,Circles,Nagaland,1615,194622,91.62
+Mon,Circles,Nagaland,1786,250260,56.99
+Moradabad,Tehsils,Uttar Pradesh,3718,4772006,56.77
+Morena,Tehsils,Madhya Pradesh,4989,1965970,71.03
+Morigaon,Circles,Assam,1551,957423,68.03
+Muktsar,Tehsils,Punjab,2593,901896,65.81
+Mumbai,Talukas,Maharashtra,157,3085411,89.21
+Mumbai Suburban,Talukas,Maharashtra,446,9356962,89.91
+Munger,Blocks,Bihar,1419,1367765,70.46
+Murshidabad,Blocks,West Bengal,5324,7103807,66.59
+Muzaffarnagar,Tehsils,Uttar Pradesh,4008,4143512,69.12
+Muzaffarpur,Blocks,Bihar,3172,4801062,63.43
+Mysore,Talukas,Karnataka,6307,3001127,72.79
+Nabarangapur,Blocks,Odisha,5291,1220946,46.43
+Nadia,Blocks,West Bengal,3927,5167600,74.97
+Nagaon,Circles,Assam,3973,2823768,72.37
+Nagapattinam,Talukas,Tamil Nadu,2569,1616450,83.59
+Nagaur,Tehsils,Rajasthan,17718,3307743,62.8
+Nagpur,Talukas,Maharashtra,9892,4653570,88.39
+Nainital,Tehsils,Uttarakhand,4251,954605,83.88
+Nalanda,Blocks,Bihar,2355,2877653,64.43
+Nalbari,Circles,Assam,1052,771639,78.63
+Nalgonda,Mandals,Andhra Pradesh,14240,3488809,64.2
+Namakkal,Talukas,Tamil Nadu,3420,1726601,74.63
+Nanded,Talukas,Maharashtra,10528,3361292,75.45
+Nandurbar,Talukas,Maharashtra,5955,1648295,64.38
+Narayanpur,Tehsils,Chhattisgarh,4653,139820,48.62
+Narmada,Talukas,Gujarat,2817,590297,72.31
+Narsimhapur,Tehsils,Madhya Pradesh,5133,1091854,75.69
+Nashik,Talukas,Maharashtra,15530,6107187,82.31
+Navsari,Talukas,Gujarat,2246,1329672,83.88
+Nawada,Blocks,Bihar,2494,2219146,59.76
+Nayagarh,Blocks,Odisha,3890,962789,80.42
+Neemuch,Tehsils,Madhya Pradesh,4256,826067,70.8
+New Delhi,Tehsils,Delhi,35,142004,88.34
+Nicobars,Tehsils,Andaman and Nicobar,1841,36842,78.06
+Nizamabad,Mandals,Andhra Pradesh,7956,2551335,61.25
+North,Tehsils,Delhi,61,887978,86.85
+North & Middle Andaman,Tehsils,Andaman and Nicobar,3736,105597,83.91
+North District,Sub-Divisions,Sikkim,4226,43709,78.01
+North East,Tehsils,Delhi,62,2241624,83.09
+North Goa,Talukas,Goa,1736,818008,89.57
+North Tripura,Blocks,Tripura,2036,693947,87.5
+North Twenty Four Parganas,Blocks,West Bengal,4094,10009781,84.06
+North West,Tehsils,Delhi,443,3656539,84.45
+Nuapada,Blocks,Odisha,3852,610382,57.35
+Osmanabad,Talukas,Maharashtra,7569,1657576,78.44
+Pakur,Blocks,Jharkhand,1811,900422,48.82
+Palakkad,Talukas,Kerala,4482,2809934,89.31
+Palamu,Blocks,Jharkhand,4393,1939869,63.63
+Pali,Tehsils,Rajasthan,12387,2037573,62.39
+Palwal,Tehsils,Hariyana,1359,1042708,69.32
+Panchkula,Tehsils,Hariyana,898,561293,81.88
+Panchmahal,Talukas,Gujarat,5231,2390776,70.99
+Panipat,Tehsils,Hariyana,1268,1205437,75.94
+Panna,Tehsils,Madhya Pradesh,7135,1016520,64.79
+Papum Pare,Circles,Arunachal Pradesh,3462,176573,79.95
+Parbhani,Talukas,Maharashtra,6214,1836086,73.34
+Paschim Medinipur,Blocks,West Bengal,9368,5913457,78
+Pashchim Champaran,Blocks,Bihar,5228,3935042,55.7
+Pashchimi Singhbhum,Blocks,Jharkhand,7224,1502338,58.63
+Patan,Talukas,Gujarat,5792,1343734,72.3
+Pathanamthitta,Talukas,Kerala,2652,1197412,96.55
+Patiala,Tehsils,Punjab,3325,1895686,75.28
+Patna,Blocks,Bihar,3202,5838465,70.68
+Perambalur,Talukas,Tamil Nadu,1756,565223,74.32
+Peren,Circles,Nagaland,1651,95219,77.95
+Phek,Circles,Nagaland,2026,163418,78.05
+Pilibhit,Tehsils,Uttar Pradesh,3686,2031007,61.47
+Pithoragarh,Tehsils,Uttarakhand,7090,483439,82.25
+Porbandar,Talukas,Gujarat,2316,585449,75.78
+Prakasam,Mandals,Andhra Pradesh,17626,3397448,63.08
+Pratapgarh,Tehsils,Rajasthan,4449,867848,55.97
+Pratapgarh,Tehsils,Uttar Pradesh,3717,3209141,70.09
+Puducherry,Commune Panchayats,Puducherry,294,950289,85.44
+Pudukkottai,Talukas,Tamil Nadu,4644,1618345,77.19
+Pulwama,Tehsils,Jammu and Kashmir,1086,560440,63.48
+Punch,Tehsils,Jammu and Kashmir,1674,476835,66.74
+Pune,Talukas,Maharashtra,15643,9429408,86.15
+Purba Champaran,Blocks,Bihar,3968,5099371,55.79
+Purba Medinipur,Blocks,West Bengal,4713,5095875,87.02
+Purbi Singhbhum,Blocks,Jharkhand,3562,2293919,75.49
+Puri,Blocks,Odisha,3479,1698730,84.67
+Purnia,Blocks,Bihar,3229,3264619,51.08
+Puruliya,Blocks,West Bengal,6259,2930115,64.48
+Rae Bareli,Tehsils,Uttar Pradesh,4609,3405559,67.25
+Raichur,Talukas,Karnataka,8442,1928812,59.56
+Raigarh,Tehsils,Chhattisgarh,7086,1493984,73.26
+Raigarh,Talukas,Maharashtra,7152,2634200,83.14
+Raipur,Tehsils,Chhattisgarh,12383,4063872,75.56
+Raisen,Tehsils,Madhya Pradesh,8466,1331597,72.98
+Rajgarh,Tehsils,Madhya Pradesh,6153,1545814,61.21
+Rajkot,Talukas,Gujarat,11198,3804558,80.96
+Rajnandgaon,Tehsils,Chhattisgarh,8070,1537133,75.96
+Rajouri,Tehsils,Jammu and Kashmir,2630,642415,68.17
+Rajsamand,Tehsils,Rajasthan,4655,1156597,63.14
+Ramanagara,Talukas,Karnataka,3516,1082636,69.22
+Ramanathapuram,Talukas,Tamil Nadu,4104,1353445,80.72
+Ramban,Tehsils,Jammu and Kashmir,1329,283713,54.27
+Ramgarh,Blocks,Jharkhand,1341,949443,73.17
+Rampur,Tehsils,Uttar Pradesh,2367,2335819,53.34
+Ranchi,Blocks,Jharkhand,5097,2914253,76.06
+Rangareddy,Mandals,Andhra Pradesh,7493,5296741,75.87
+Ratlam,Tehsils,Madhya Pradesh,4861,1455069,66.78
+Ratnagiri,Talukas,Maharashtra,8208,1615069,82.18
+Rayagada,Blocks,Odisha,7073,967911,49.76
+Reasi,Tehsils,Jammu and Kashmir,1719,314667,58.15
+Rewa,Tehsils,Madhya Pradesh,6314,2365106,71.62
+Rewari,Tehsils,Hariyana,1594,900332,80.99
+Ribhoi,Blocks,Meghalaya,2448,258840,75.67
+Rohtak,Tehsils,Hariyana,1745,1061204,80.22
+Rohtas,Blocks,Bihar,3881,2959918,73.37
+Rudraprayag,Tehsils,Uttarakhand,1984,242285,81.3
+Rupnagar,Tehsils,Punjab,1356,684627,82.19
+Sabarkantha,Talukas,Gujarat,7394,2428589,75.79
+Sagar,Tehsils,Madhya Pradesh,10252,2378458,76.46
+Saharanpur,Tehsils,Uttar Pradesh,3689,3466382,70.49
+Saharsa,Blocks,Bihar,1687,1900661,53.2
+Sahibganj,Blocks,Jharkhand,2063,1150567,52.04
+Sahibzada Ajit Singh Nagar,Tehsils,Punjab,1094,994628,83.8
+Saiha,Blocks,Mizoram,1399,56574,90.01
+Salem,Talukas,Tamil Nadu,5237,3482056,72.86
+Samastipur,Blocks,Bihar,2904,4261566,61.86
+Samba,Tehsils,Jammu and Kashmir,904,318898,81.41
+Sambalpur,Blocks,Odisha,6624,1041099,76.22
+Sangli,Talukas,Maharashtra,8572,2822143,81.48
+Sangrur,Tehsils,Punjab,3625,1655169,67.99
+Sant Kabir Nagar,Tehsils,Uttar Pradesh,1646,1715183,66.72
+Sant Ravidas Nagar,Tehsils,Uttar Pradesh,1015,1578213,68.97
+Saraikela-Kharsawan,Blocks,Jharkhand,2657,1065056,67.7
+Saran,Blocks,Bihar,2641,3951862,65.96
+Satara,Talukas,Maharashtra,10480,3003741,82.87
+Satna,Tehsils,Madhya Pradesh,7502,2228935,72.26
+Sawai Madhopur,Tehsils,Rajasthan,4498,1335551,65.39
+Sehore,Tehsils,Madhya Pradesh,6578,1311332,70.06
+Senapati,Sub-Divisions,Manipur,3271,479148,63.6
+Seoni,Tehsils,Madhya Pradesh,8758,1379131,72.12
+Serchhip,Blocks,Mizoram,1421,64937,97.91
+Shahdol,Tehsils,Madhya Pradesh,6205,1066063,66.67
+Shahid Bhagat Singh Nagar,Tehsils,Punjab,1282,612310,79.78
+Shahjahanpur,Tehsils,Uttar Pradesh,4388,3006538,59.54
+Shajapur,Tehsils,Madhya Pradesh,6195,1512681,69.09
+Sheikhpura,Blocks,Bihar,689,636342,63.86
+Sheohar,Blocks,Bihar,349,656246,53.78
+Sheopur,Tehsils,Madhya Pradesh,6606,687861,57.43
+Shimla,Tehsils,Himachal Pradesh,5131,814010,83.64
+Shimoga,Talukas,Karnataka,8478,1752753,80.45
+Shivpuri,Tehsils,Madhya Pradesh,10066,1726050,62.55
+Shrawasti,Tehsils,Uttar Pradesh,1640,1117361,46.74
+Shupiyan,Tehsils,Jammu and Kashmir,312,266215,60.76
+Siddharthnagar,Tehsils,Uttar Pradesh,2895,2559297,59.25
+Sidhi,Tehsils,Madhya Pradesh,4851,1127033,64.43
+Sikar,Tehsils,Rajasthan,7732,2677333,71.91
+Simdega,Blocks,Jharkhand,3774,599578,67.99
+Sindhudurg,Talukas,Maharashtra,5207,849651,85.56
+Singrauli,Tehsils,Madhya Pradesh,5675,1178273,60.41
+Sirmaur,Tehsils,Himachal Pradesh,2825,529855,78.8
+Sirohi,Tehsils,Rajasthan,5136,1036346,55.25
+Sirsa,Tehsils,Hariyana,4277,1295189,68.82
+Sitamarhi,Blocks,Bihar,2294,3423574,52.05
+Sitapur,Tehsils,Uttar Pradesh,5743,4483992,61.12
+Sivaganga,Talukas,Tamil Nadu,4233,1339101,79.85
+Sivasagar,Circles,Assam,2668,1151050,80.41
+Siwan,Blocks,Bihar,2219,3330464,69.45
+Solan,Tehsils,Himachal Pradesh,1936,580320,83.68
+Solapur,Talukas,Maharashtra,14895,4317756,77.02
+Sonbhadra,Tehsils,Uttar Pradesh,6905,1862559,64.03
+Sonipat,Tehsils,Hariyana,2122,1450001,79.12
+Sonitpur,Circles,Assam,5204,1924110,67.34
+South,Tehsils,Delhi,247,2731929,86.57
+South Andaman,Tehsils,Andaman and Nicobar,2672,238142,89.13
+South District,Sub-Divisions,Sikkim,750,146850,81.42
+South Garo Hills,Blocks,Meghalaya,1887,142334,71.72
+South Goa,Talukas,Goa,1966,640537,87.59
+South Tripura,Blocks,Tripura,3057,876001,84.66
+South Twenty Four Parganas,Blocks,West Bengal,9960,8161961,77.51
+South West,Tehsils,Delhi,421,2292958,88.28
+Sri Potti Sriramulu Nellore,Mandals,Andhra Pradesh,13076,2963557,68.9
+Srikakulam,Mandals,Andhra Pradesh,5837,2703114,61.74
+Srinagar,Tehsils,Jammu and Kashmir,1979,1236829,69.41
+Subarnapur,Blocks,Odisha,2337,610183,74.42
+Sultanpur,Tehsils,Uttar Pradesh,4436,3797117,69.27
+Sundargarh,Blocks,Odisha,9712,2093437,73.34
+Supaul,Blocks,Bihar,2425,2229076,57.67
+Surat,Talukas,Gujarat,4549,6081322,85.53
+Surendranagar,Talukas,Gujarat,10423,1756268,72.13
+Surguja,Tehsils,Chhattisgarh,15732,2359886,60.01
+Tamenglong,Sub-Divisions,Manipur,4391,140651,70.05
+Tapi,Talukas,Gujarat,3139,807022,68.26
+Tarn Taran,Tehsils,Punjab,2414,1119627,67.81
+Tawang,Circles,Arunachal Pradesh,2172,49977,59
+Tehri Garhwal,Tehsils,Uttarakhand,3642,618931,76.36
+Thane,Talukas,Maharashtra,9558,11060148,84.53
+Thanjavur,Talukas,Tamil Nadu,3411,2405890,82.64
+The Dangs,Talukas,Gujarat,1766,228291,75.16
+The Nilgiris,Talukas,Tamil Nadu,2565,735394,85.2
+Theni,Talukas,Tamil Nadu,2868,1245899,77.26
+Thiruvallur,Talukas,Tamil Nadu,3394,3728104,84.03
+Thiruvananthapuram,Talukas,Kerala,2189,3301427,93.02
+Thiruvarur,Talukas,Tamil Nadu,2274,1264277,82.86
+Thoothukkudi,Talukas,Tamil Nadu,4745,1750176,86.16
+Thoubal,Sub-Divisions,Manipur,514,422168,74.47
+Thrissur,Talukas,Kerala,3027,3121200,95.08
+Tikamgarh,Tehsils,Madhya Pradesh,5048,1445166,61.43
+Tinsukia,Circles,Assam,3790,1327929,69.66
+Tirap,Circles,Arunachal Pradesh,2362,111975,52.19
+Tiruchirappalli,Talukas,Tamil Nadu,4509,2722290,83.23
+Tirunelveli,Talukas,Tamil Nadu,6693,3077233,82.5
+Tiruppur,Talukas,Tamil Nadu,5187,2479052,78.68
+Tiruvannamalai,Talukas,Tamil Nadu,6188,2464875,74.21
+Tonk,Tehsils,Rajasthan,7194,1421326,61.58
+Tuensang,Circles,Nagaland,2536,196596,73.08
+Tumkur,Talukas,Karnataka,10597,2678980,75.14
+Udaipur,Tehsils,Rajasthan,11724,3068420,61.82
+Udalguri,Circles,Assam,2012,831668,65.41
+Udham Singh Nagar,Tehsils,Uttarakhand,2542,1648902,73.1
+Udhampur,Tehsils,Jammu and Kashmir,2637,554985,68.49
+Udupi,Talukas,Karnataka,3582,1177361,86.24
+Ujjain,Tehsils,Madhya Pradesh,6091,1986864,72.34
+Ukhrul,Sub-Divisions,Manipur,4544,183998,81.35
+Umaria,Tehsils,Madhya Pradesh,4076,644758,65.89
+Una,Tehsils,Himachal Pradesh,1540,521173,86.53
+Unnao,Tehsils,Uttar Pradesh,4558,3108367,66.37
+Upper Siang,Circles,Arunachal Pradesh,6590,35320,59.99
+Upper Subansiri,Circles,Arunachal Pradesh,7032,83448,63.8
+Uttar Dinajpur,Blocks,West Bengal,3140,3007134,59.07
+Uttara Kannada,Talukas,Karnataka,10277,1437169,84.06
+Uttarkashi,Tehsils,Uttarakhand,8016,330086,75.81
+Vadodara,Talukas,Gujarat,7546,4165626,78.92
+Vaishali,Blocks,Bihar,2036,3495021,66.6
+Valsad,Talukas,Gujarat,3008,1705678,78.55
+Varanasi,Tehsils,Uttar Pradesh,1535,3676841,75.6
+Vellore,Talukas,Tamil Nadu,6075,3936331,79.17
+Vidisha,Tehsils,Madhya Pradesh,7371,1458875,70.53
+Viluppuram,Talukas,Tamil Nadu,7194,3458873,71.88
+Virudhunagar,Talukas,Tamil Nadu,4241,1942288,80.15
+Visakhapatnam,Mandals,Andhra Pradesh,11161,4290589,66.91
+Vizianagaram,Mandals,Andhra Pradesh,6539,2344474,58.89
+Warangal,Mandals,Andhra Pradesh,12846,3512576,65.11
+Wardha,Talukas,Maharashtra,6309,1300774,86.99
+Washim,Talukas,Maharashtra,4898,1197160,83.25
+Wayanad,Talukas,Kerala,2130,817420,89.03
+West,Tehsils,Delhi,130,2543243,86.98
+West District,Sub-Divisions,Sikkim,1166,136435,77.39
+West Garo Hills,Blocks,Meghalaya,3677,643291,67.58
+West Godavari,Mandals,Andhra Pradesh,7742,3936966,74.63
+West Kameng,Circles,Arunachal Pradesh,7422,83947,67.07
+West Khasi Hills,Blocks,Meghalaya,5247,383461,77.87
+West Siang,Circles,Arunachal Pradesh,8325,112274,66.46
+West Tripura,Blocks,Tripura,2993,1725739,88.69
+Wokha,Circles,Nagaland,1628,166343,87.69
+Yadgir,Talukas,Karnataka,5270,1174271,51.83
+Yamunanagar,Tehsils,Hariyana,1768,1214205,77.99
+Yanam,Commune Panchayats,Puducherry,30,55626,79.47
+Yavatmal,Talukas,Maharashtra,13582,2772348,82.82
+YSR,Mandals,Andhra Pradesh,15359,2882469,67.3
+Zunheboto,Circles,Nagaland,1255,140757,85.26
